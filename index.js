@@ -6,3 +6,5 @@ const server = http.createServer((req, res) => {
 });
 const PORT = 5000;
 console.log(`server is running port ${PORT}`);
+console.log("hello world");
+console.log("hello world");
